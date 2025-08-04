@@ -5,6 +5,7 @@ Glucogard is a mobile application designed to help manage and monitor glucose le
 ## Table of Contents
 
 - [Project Title and Description](#glucogard)
+- [APP DEMO](#Glucoguard-Demo)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
